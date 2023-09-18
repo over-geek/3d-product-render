@@ -32,7 +32,7 @@
 
 # 📖 3D Product Rendering Site <a name="about-project"></a>
 
-3D Product Rendering site is a web app that allows user to customize and interact 3D models. Users can pick a color of the model, import an image to be used on the file, as well as having a rotating feel when the model is hovered on.
+3D Product Rendering site is a web app that allows users to customize and interact with 3D models. Users can pick a colour of the model, import an image to be used on the file, and have a rotating feel when the model is hovered on.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@
 <!-- Live Demo -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-N/A
+[Demo Link](https://dazzling-duckanoo-c20dfc.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
