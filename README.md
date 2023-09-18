@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 #D Product Rendering Site <a name="about-project"></a>
+# 📖 3D Product Rendering Site <a name="about-project"></a>
 
 3D Product Rendering site is a web app that allows user to customize and interact 3D models. Users can pick a color of the model, import an image to be used on the file, as well as having a rotating feel when the model is hovered on.
 
